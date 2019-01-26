@@ -11,6 +11,8 @@ Indigo
 Unicorn
 Yellow
 Red
+Violet
+Red-orange
 These are the colors of the rainbow.
 And the unicorn.
 Pony
